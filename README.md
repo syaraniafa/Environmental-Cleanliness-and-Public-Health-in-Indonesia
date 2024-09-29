@@ -1,4 +1,4 @@
-# Environmental Cleanliness and Public Health in Indonesia - Multivariate Statistics
+# Environmental Cleanliness and Public Health in Indonesia - Multivariate Statistics Project
 
 ## Overview
 This project aims to explore the relationship between environmental cleanliness and public health in Indonesia. Given the profound impact of these factors on human welfare, the research focuses on identifying key variables that influence these two aspects and understanding their interconnections. The analysis leverages Canonical Correlation Analysis (CCA) to assess how environmental factors influence public health outcomes.
