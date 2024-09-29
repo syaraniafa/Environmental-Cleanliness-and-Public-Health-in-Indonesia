@@ -44,8 +44,8 @@ Several data-related issues were encountered during the analysis, including:
 This research highlights the significant positive impact of environmental cleanliness on public health in Indonesia. However, further refinement of the model is necessary to ensure that all assumptions are met, and the analysis results are reliable. Addressing the identified challenges will lead to more accurate insights and potentially more impactful policy recommendations.
 
 ## Contributors
-2301932462 - ACHMAD GHIFARI IKRAM ABUBAKAR
-2301869600 - PATRICE AGUSTIN
-2502027876 - LIECARDO ANTONIO
-2502037864 - SYARANI AFA NATIRA KUSUMAH
+2301932462 - ACHMAD GHIFARI IKRAM ABUBAKAR <br>
+2301869600 - PATRICE AGUSTIN <br>
+2502027876 - LIECARDO ANTONIO <br>
+2502037864 - SYARANI AFA NATIRA KUSUMAH <br>
 2502007514 - THEOPHILUS NATHAN TANUDJAJA
